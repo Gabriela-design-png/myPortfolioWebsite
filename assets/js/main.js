@@ -65,6 +65,7 @@ window.addEventListener("scroll", () => {
   }
 });
 
+
 // ScrollReveal animations
 const sr = ScrollReveal({
   duration: 2000,
